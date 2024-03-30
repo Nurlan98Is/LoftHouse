@@ -10,3 +10,4 @@ Tablet version
 
 https://github.com/Nurlan98Is/LoftHouse/assets/124293340/0fe8a809-f019-4292-b044-326f9beea7fb
 
+![LoftHouse_tablet_version](https://github.com/Nurlan98Is/LoftHouse/assets/124293340/f04886a2-0b20-4e93-bbd6-2192a47bf68b)
